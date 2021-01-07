@@ -1,0 +1,2217 @@
+('C:\\Users\\Avik Yadav\\PycharmProjects\\assistant_2\\build\\main\\PYZ-00.pyz',
+ [('os',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('pep517.meta',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pep517\\meta.py',
+   'PYMODULE'),
+  ('pep517.dirtools',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pep517\\dirtools.py',
+   'PYMODULE'),
+  ('pep517.wrappers',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pep517\\wrappers.py',
+   'PYMODULE'),
+  ('pep517.compat',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pep517\\compat.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('pep517.envbuild',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pep517\\envbuild.py',
+   'PYMODULE'),
+  ('pytoml',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytoml\\__init__.py',
+   'PYMODULE'),
+  ('pytoml.writer',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytoml\\writer.py',
+   'PYMODULE'),
+  ('pytoml.utils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytoml\\utils.py',
+   'PYMODULE'),
+  ('pytoml.test',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytoml\\test.py',
+   'PYMODULE'),
+  ('pytoml.parser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytoml\\parser.py',
+   'PYMODULE'),
+  ('pytoml.core',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytoml\\core.py',
+   'PYMODULE'),
+  ('zipp',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\zipp.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('pep517.build',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pep517\\build.py',
+   'PYMODULE'),
+  ('pep517',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pep517\\__init__.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('win32com',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\imp.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('rotatescreen',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rotatescreen\\__init__.py',
+   'PYMODULE'),
+  ('rotatescreen.display',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rotatescreen\\display.py',
+   'PYMODULE'),
+  ('pyjokes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\__init__.py',
+   'PYMODULE'),
+  ('pyjokes.pyjokes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\pyjokes.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_it',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\jokes_it.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_eu',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\jokes_eu.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_gl',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\jokes_gl.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_es',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\jokes_es.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_de',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\jokes_de.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_en',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyjokes\\jokes_en.py',
+   'PYMODULE'),
+  ('wikipedia',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wikipedia\\__init__.py',
+   'PYMODULE'),
+  ('wikipedia.exceptions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wikipedia\\exceptions.py',
+   'PYMODULE'),
+  ('wikipedia.wikipedia',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wikipedia\\wikipedia.py',
+   'PYMODULE'),
+  ('wikipedia.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wikipedia\\util.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('pywhatkit',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pywhatkit\\__init__.py',
+   'PYMODULE'),
+  ('pywhatkit.help',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pywhatkit\\help.py',
+   'PYMODULE'),
+  ('pywhatkit.chr_to_handwriting',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pywhatkit\\chr_to_handwriting.py',
+   'PYMODULE'),
+  ('pywhatkit.mainfunctions',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pywhatkit\\mainfunctions.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pyrect',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pytweening',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('speech_recognition',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\speech_recognition\\__init__.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('pyaudio',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyaudio.py',
+   'PYMODULE'),
+  ('aifc',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\aifc.py',
+   'PYMODULE'),
+  ('chunk',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\chunk.py',
+   'PYMODULE'),
+  ('wave',
+   'c:\\users\\avik '
+   'yadav\\appdata\\local\\programs\\python\\python39\\lib\\wave.py',
+   'PYMODULE')])
